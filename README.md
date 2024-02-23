@@ -1,3 +1,4 @@
+
 # Stock Analysis and Visualization
 
 ## Overview
@@ -24,19 +25,31 @@ This project focuses on analyzing and visualizing stock data using Python with l
    - Examines the pairwise correlation between daily returns of different stocks.
    - Creates a Seaborn pairplot for a comprehensive visualization.
 
-## Usage
+## Sample Output
 
-1. **Environment Setup:**
-   - Ensure you have the required Python libraries installed. You can use the provided `requirements.txt` file for easy installation.
+### Time Series Visualization
 
-2. **Data Loading:**
-   - Place your stock dataset in the appropriate directory or update the file path in the code accordingly.
+![Time series Visualization](https://github.com/sujalsha/Stock-Market-Analysis/assets/90669209/4ffab631-1c33-4553-9356-1b48111b800f)
 
-3. **Run the Notebook:**
-   - Open the Jupyter Notebook or Python script and run each cell sequentially.
+### Moving Averages
 
-4. **Explore Results:**
-   - Examine the visualizations generated for time series, moving averages, daily returns, and correlation analysis.
+![Moving Averages](https://github.com/sujalsha/Stock-Market-Analysis/assets/90669209/b1b1c6f0-43f4-48f5-b06c-08fe1e8d47cf)
+![Moving Averages 1](https://github.com/sujalsha/Stock-Market-Analysis/assets/90669209/a419fa41-cec9-47c8-85f2-d4989263f0d0)
+
+
+
+### Daily Returns Visualization
+![Daily returns](https://github.com/sujalsha/Stock-Market-Analysis/assets/90669209/93fc306d-4fae-448d-a9f8-9a97bc7fd53b)
+
+![Daily Returns](https://github.com/sujalsha/Stock-Market-Analysis/assets/90669209/8387a153-e62e-4a5a-8f34-c23f4bb13543)
+
+
+
+### Correlation Analysis
+
+
+![Correlation ](https://github.com/sujalsha/Stock-Market-Analysis/assets/90669209/a3c9d20d-5ed4-4016-ba43-c797394df458)
+
 
 ## Dependencies
 
